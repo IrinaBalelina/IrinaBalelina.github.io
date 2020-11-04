@@ -1,0 +1,43 @@
+html {
+    font-family: 'Grandstander', cursive;
+    font-size: 14px;
+    background-color: lavender;
+}
+body {
+    margin: 10px 10px;
+    background-color: lightcoral;
+    padding: 0 50px 50px 50px;
+    border: 5px solid black;
+}
+h1 {
+    font-size: 150px;
+    text-align: center;
+    margin: 0;
+    padding: 10px 0;
+    color: lavender;
+    text-shadow: 3px 3px 6px black;
+}
+img {
+    display: block;
+    margin: 0 auto;
+}
+li,p {
+    font-size: 20px;
+    line-height: 2;
+    letter-spacing: 1px;
+}
+#greentext {
+    color: green;
+}
+#bluetext {
+    color: blue;
+}
+#yellowtext {
+    color: yellow;
+}
+#redtext {
+    color: red;
+}
+#graytext {
+    color: gray;
+}
